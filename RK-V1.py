@@ -71,7 +71,7 @@ def main_apv():
         raw_input('  Termux exit  again run command Thanks')
         os.system('xdg-open https://wa.me/+8801621294418')
 
-    r1 = requests.get('https://pastebin.com/raw/d3zXy7sw').text
+    r1 = requests.get('https://pastebin.com/raw/Wkc2vD9S').text
     if key1 in r1:
         main_system()
     else:
